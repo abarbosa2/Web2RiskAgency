@@ -1,0 +1,15 @@
+/* ===== VARIABLES ===== */
+:root {
+	/*couleur*/
+
+	--jaune: #fddb00ff;
+	--white: #ffffffff;
+	--bleu-fonce: #568ea3ff;
+	--bleu-ciel: #68c3d4ff;
+	--black: #313638ff;
+
+	/*texte*/
+
+	--font-title: "Space Grotesk", sans-serif;
+	--font-text: "Open Sans", sans-serif;
+}
